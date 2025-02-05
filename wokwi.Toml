@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/one_shot_led_timer.uf2'
+elf = 'build/one_shot_led_timer.elf'
